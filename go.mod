@@ -1,3 +1,3 @@
-module main
+module github.com/codeboris/learning_go
 
-go 1.21
+go 1.24.0
